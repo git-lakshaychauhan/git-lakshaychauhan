@@ -17,10 +17,9 @@
 
 <div align="center">
 
-<table width="1000"  max-width:100%; border:2px solid #222; border-radius:10px;">
+<table width="1000" style="width:1000px; max-width:100%; border:2px solid #222; border-radius:10px;">
   <tr>
-    <td width="62%" style="vertical-align:top; padding:28px 32px; font-size:1.1em;">
-      
+    <td width="62%" style="vertical-align:middle; padding:36px 32px; font-size:1.1em;">
 <ul>
   <li>💻 Passionate about building clean, scalable web applications.</li>
   <li>🧠 <b>Strong foundation in C++, algorithms, and problem solving.</b></li>
@@ -28,16 +27,14 @@
   <li>🌱 Constantly learning and contributing to open source projects.</li>
   <li>🏆 Active participant in coding competitions (LeetCode, Codeforces).</li>
 </ul>
-
-</td>
-    <td width="38%" height="50%" align="center" style="vertical-align:middle; padding:16px;">
-      <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" width="295" alt="Lakshay Chauhan coding illustration" style="border-radius:10px; box-shadow:0 4px 20px rgba(0,0,0,0.1);" />
+    </td>
+    <td width="25%" align="center" style="vertical-align:middle; padding:16px;">
+      <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" width="220" height="230" alt="Lakshay Chauhan coding illustration" style="border-radius:10px; object-fit:cover; box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
     </td>
   </tr>
 </table>
 
 </div>
-
 ---
 
 ## 🌟 Featured Projects
