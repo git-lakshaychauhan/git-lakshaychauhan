@@ -1,3 +1,4 @@
+
 <!-- Professional & Beautiful GitHub Profile README for Lakshay Chauhan -->
 
 <h1 align="center">👋 Hi, I'm Lakshay Chauhan</h1>
@@ -14,13 +15,22 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://github.com/git-lakshaychauhan/git-lakshaychauhan/assets/102193675/d0b52f31-9e0e-4b49-9f4f-2cfb892f4d4d" width="250" alt="Lakshay Chauhan coding illustration" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.1); margin-left: 18px;"/>
-
-- 💻 Passionate about building clean, scalable web applications.
-- 🧠 Strong foundation in <b>C++</b>, algorithms, and problem solving.
-- ⚡ Experienced with <b>Next.js</b>, React, and API integration.
-- 🌱 Constantly learning and contributing to open source projects.
+<table >
+  <tr>
+    <td>
+      
+- 💻 Passionate about building clean, scalable web applications.<br>
+- 🧠 Strong foundation in <b>C++</b>, algorithms, and problem solving.<br>
+- ⚡ Experienced with <b>Next.js</b>, React, and API integration.<br>
+- 🌱 Constantly learning and contributing to open source projects.<br>
 - 🏆 Active participant in coding competitions (LeetCode, Codeforces).
+
+    </td>
+    <td align="center" width="280">
+      <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" width="230" alt="Lakshay Chauhan coding illustration" style="border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,7 +92,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=git-lakshaychauhan&show_icons=true&theme=tokyonight" alt="Lakshay’s GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-lakshaychauhan&theme=tokyonight" alt="GitHub Streak Stats" height="180"/>
 </p>
 
 ---
