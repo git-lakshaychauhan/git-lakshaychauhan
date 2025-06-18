@@ -35,7 +35,6 @@
 </table>
 
 </div>
----
 
 ## 🌟 Featured Projects
 
